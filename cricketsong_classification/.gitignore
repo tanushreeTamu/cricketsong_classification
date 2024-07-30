@@ -1,0 +1,13 @@
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+#ignore .idea file
+.idea
+
+./
